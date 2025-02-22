@@ -43,7 +43,7 @@ usermod -G GRP_SEC josefina
 usermod -G GRP_SEC amanda
 usermod -G GRP_SEC rogerio
 
-echo "Atribuindo pastas aos grupos"
+echo "Atribuindo grupos ao diretorios"
 
 chown root:GRP_ADM /adm
 chown root:GRP_VEN /ven
